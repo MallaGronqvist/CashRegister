@@ -1,0 +1,14 @@
+>>>>> Register opened.
+Cat.         1:     76.00 Kr.[ Laxbiffar ]
+Cat.         4:     30.50 Kr.[ Kaffe ]
+Cat.         2:     13.50 Kr.[ Kexchoklad ]
+>>>>> Register closed.
+Category totals for last opening period:
+----------------------------------------
+Category     1:     76.00 Kr.
+Category     2:     13.50 Kr.
+Category     3:      0.00 Kr.
+Category     4:     30.50 Kr.
+Category     5:      0.00 Kr.
+Total sales within all categories: 120.00 Kr.
+==========================================================================

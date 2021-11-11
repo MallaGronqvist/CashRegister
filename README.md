@@ -10,6 +10,7 @@ at the end of the day. The register contains all items with their prices
 and categories, sales per item category and total sales for the day.
 
 Example output to file:
+
 >>>>> Register opened.
 Cat.         1:     76.00 Kr.[ Laxbiffar ]
 Cat.         4:     30.50 Kr.[ Kaffe ]
@@ -27,7 +28,7 @@ Total sales within all categories: 120.00 Kr.
 
 ## Technical description
 
-The program consist of following interacting classes:
+The program consist of following classes with interacting objects:
 <li> Basket
 <li> Item
 <li> ItemList

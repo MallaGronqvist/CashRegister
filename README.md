@@ -11,7 +11,7 @@ and categories, sales per item category and total sales for the day.
 
 Example output to file:
 
-![image](https://user-images.githubusercontent.com/92683177/141276579-c199a598-2436-41ec-b140-a811119dc8ad.png)
+![image](https://user-images.githubusercontent.com/92683177/141276800-44ea4000-5a79-4b25-b63c-e9ed6ccae208.png)
 
 
 ## Technical description

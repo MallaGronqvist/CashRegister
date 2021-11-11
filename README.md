@@ -11,11 +11,11 @@ and categories, sales per item category and total sales for the day.
 
 Example output to file:
 
->>>>> Register opened.
+Register opened.
 Cat.         1:     76.00 Kr.[ Laxbiffar ]
 Cat.         4:     30.50 Kr.[ Kaffe ]
 Cat.         2:     13.50 Kr.[ Kexchoklad ]
->>>>> Register closed.
+Register closed.
 Category totals for last opening period:
 ----------------------------------------
 Category     1:     76.00 Kr.
